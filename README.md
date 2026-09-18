@@ -21,8 +21,7 @@ This repository contains the source code for my personal portfolio, along with s
 ## Portfolio
 
 Visit my portfolio:
-
-https://YOUR-USERNAME.github.io/trishita-portfolio/
+https://github.com/trishitaacharjee/Trish-Portfolio
 
 ## Featured Work
 
